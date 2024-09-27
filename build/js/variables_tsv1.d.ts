@@ -1,0 +1,58 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+export const ColorsBlack : string;
+export const ColorsWhite : string;
+export const ColorsOrange100 : string;
+export const ColorsOrange200 : string;
+export const ColorsOrange300 : string;
+export const ColorsOrange400 : string;
+export const ColorsOrange500 : string;
+export const ColorsOrange600 : string;
+export const ColorsOrange700 : string;
+export const ColorsOrange800 : string;
+export const ColorsOrange900 : string;
+export const Dimensions0 : string;
+export const Dimensions1 : string;
+export const Dimensions2 : string;
+export const Dimensions3 : string;
+export const Dimensions4 : string;
+export const Dimensions5 : string;
+export const Dimensions6 : string;
+export const Dimensions7 : string;
+export const Dimensions8 : string;
+export const Dimensions9 : string;
+export const Dimensions10 : string;
+export const Dimensions11 : string;
+export const Dimensions12 : string;
+export const Dimensions13 : string;
+export const Dimensions14 : string;
+export const Dimensions15 : string;
+export const DimensionsMax : string;
+export const TextTypographyHeading : { fontFamily: string, fontWeight: string, fontSize: string, lineHeight: number };
+export const TextTypographyBody : { fontFamily: string, fontWeight: string, fontSize: string, lineHeight: number };
+export const TextFontsSerif : string;
+export const TextFontsSans : string;
+export const TextSizesHeading : string;
+export const TextSizesBody : string;
+export const TextWeightsLight : string;
+export const TextWeightsRegular : string;
+export const TextWeightsBold : string;
+export const TextLineHeightsNormal : number;
+export const TextLineHeightsLarge : number;
+export const TransitionsEmphasis : { duration: string, delay: string, timingFunction: number[] };
+export const TransitionsFade : { duration: string, delay: string, timingFunction: number[] };
+export const TransitionsEasingFunctionsAccelerate : number[];
+export const TransitionsEasingFunctionsDecelerate : number[];
+export const TransitionsDurationsInstant : string;
+export const TransitionsDurationsShort : string;
+export const TransitionsDurationsMedium : string;
+export const TransitionsDurationsLong : string;
+export const BordersHeavy : { color: string, width: string, style: string };
+export const BordersWireframe : { color: string, width: string, style: { dashArray: string[], lineCap: string } };
+export const BordersStylesSolid : string;
+export const BordersStylesDashed : { dashArray: string[], lineCap: string };
+export const ShadowsSm : { color: string, offsetX: string, offsetY: string, blur: string };
+export const ShadowsLg : { color: string, offsetX: string, offsetY: string, blur: string };
+export const ShadowsMulti : { color: string, offsetX: string, offsetY: string, blur: string }[];
